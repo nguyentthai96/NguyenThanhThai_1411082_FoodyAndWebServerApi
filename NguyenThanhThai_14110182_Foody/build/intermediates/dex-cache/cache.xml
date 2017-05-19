@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\10f768b77810dd20879903d3724e0de09f571d1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_c7e05e90c5627bdab85fd3c7be70cdcd398e0c97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\0a2958681cb9388370035ac31793eba409c83424\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19a40a8afe0289f6520b25353096ac233e78f69d">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b53bab23be22acc15964d11236dedcfa3b125478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\fa7e98510c25d63c15dd7c300909fc7bdaee9f38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_cd609a78a79682202d5b1eb3977838d576332858\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\f4b9d6f4b58eb9e8619cb8fee145f335aa5eeae8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_9555c680ec7688c7044ae724ef93c1217fd196ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\a0586b2fa12aad8756bbc92ff743438b7ce07ed3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_aee829c20364eb195ab91c50b68d7ae68c6595fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\199cec2e0c30b1512c8689a7d91444d5b43b6691\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_23e301b964c1bc830da8c374797a8f0281ea0fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\09673c6132b3f6fbe85885ba214851e112c18bd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_662590ab7c110470a4779b7ca88b74500a606001\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\b8df21436ba31b9a5397ad3152232a42981d6de6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_32a6dcc28b9d2ce0e24d4fcd375a756251c1520c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\b5588c6ea3611c639af09b24fff78eda974dc003\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_eb03a1e18e30b176ac41b21ccdbea33472aea631\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\44194abd403069a25cdb8d2a397e468c2817eee6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_94a8cfbcfa9f5980c82e6bbe853bfcc3500804ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\a3462e189cced9a2acdc7acb1fa685aa0d866759\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_97208a5b18109a0e6c0ee40ef8e4d994a9c0b55c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\eff858da2d5dd3da090e8b972f3a9c81a19607e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_34dc4f7e490bf5a0bbe31f4a5c5845abd51ca985\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\a29f5fcec7e1730a8b76ca2acd85e0c1c3a6a0f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_f286670c31095dc0e27b7a66c06fb76cbd93ffb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\b5df8bb2f23ca69e1b215b66f18a88bb14e7ecd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_6af8e577065f3c755d43c09f7994a5e3be630ed6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\2b0cbca1164478d0b039c7c219da6e90ca6185f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_bc691e235d20ed3e68f8603c49e7e58c9a215505\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\849cb439570c412e23ba95b24e1fb76c6f6ba3ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b16f30ac30de0f63e711c6a1f136ce02e2f9f093\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\c4064a54bcf04c4739c306fd1ec976341a8cfaa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_5d919331ad8f73b52f5f338a5c4dd9a171c1f5fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\45c778b2a576d856e9879e76734bfa5a0bcc6c29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_e637a0daa5a58b1f386e7660002f921653f560c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\f02b371050ceff0ac190fe5e21175f665e4f3463\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_3cc8c8544897595d6fb9df6b29c7443a854dd201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\57b16651c5801fbdf99c7a7f56892e611b1dfef3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_8c0cab679a958c44b2c7864c7657515b75253d80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\e3ef6beef8e0a96ca7a9e261cae3ba4a717b6cf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ec9041a23ea68c133f9cda28a5a74673dbe909e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\78c4b5b3b356eba36b15b1964942620efd2ae432\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_405c8b1bcc030390835721a48874f1883d841ceb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PortableSoftware\Android\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\constraint-layout-solver-1.0.2_f2356ff00956d119b986ad67ca2a731aac005d9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\e50a393616bf65f2a2e934ac997d89fee11ba342\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f97957ca13c4eda0e0ec407224f3d0d8d33ce09">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_d338b4e5513f61c6c1675568ef0c7b2c33bc8395\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\027bb7ac024e5267a6b395b5eea4d748285edd26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_bc6362e6a7392156625f65a0150cf35f883b8add\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\2588c4303b97427dbbb5c99a0f400c972e3d7e9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_f1c29b7a238b7212e26a0bf0fdd6e5be2b1e0515\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\1aea17e54a11412b56911da4c3d11422336775e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_510fdb03882d4489443eaf5168dc861f4c18d6e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\1700ed6b63d1c9a9bd61f625331dd3188424c63a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_a3cded592d9b1811ac891fd4f0cde49d53488f99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\93ae70e795e9c1bc1882f393d81af058b095f996\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_0ba2aa86fb655c9001fcda8ed550a007c2635a49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\33e082518dc92eddac03e40c25e4ea8c862be7ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a21cc22db6d603701026214601b39255b9b998">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_28c373886d536d8e9f6f86b10f875f0562196318\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\638865a2d28058d9b41ec1e450fbba51cf37a2c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_968a1e9b1f386858c41250b1fc713ccbbf62ab2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\a875979b9924f2d6296c90a055c910f3be01544b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_bf9fa83990086114e15cc5fd1891bec048af3fff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\f4a0db97506db004a2e77f6a229b56db65afb934\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_7a9ef0831644b830e53ddcd6cbacb0cb81d73553\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\c3d15bbeca30e728b1956ff91f1591056c16e5a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_80843b632a72a8ff89fa997a9a4f9f3b9f8708e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\423e51905b6ca5c8c3716d95263f695faf462845\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_4a397853f5a68981e566e5878c58a5709f0fb14d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\f3c0774bb1b1752e6c6ef702981183883f7db676\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_58ae2893f648eeb0cb043d0806ac8df32784fbe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\88a72f1378d2ef4cc7c0b001e615c5b184aad5d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2180e9b9a0efcf449013783a9f2c922016ce4a">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_cdf5817c4e669f6edb209749431b7d3d2f70f711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\a9f1483e68e5b3f959e66c37d3dc26caeec43746\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_51ab92678efac27fd7e0a7314605e489db973f2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\254da15ae8d2e6bb7b8438e764ae8cc65d7fb55f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_ec38380f990c6a6007966ea030488a4f93c70772\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\1d7de29c6155ae6d73a5d539e7fb4c9e3d9ee47e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_5708b0efd2045022b1f691da2f1a4b94579a44f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\2e63f0275f64f58edabe8095f2ba6164bf5de0de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_9e8ecc5bd379f52faa9a567b1019cad7100e4139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ac6e11d8b4a2dbbd13683aa69363497587a84dfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\feabed58b5759c1682456200aa7c47c7439877e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_bd24fa9da07d2f96ad5f4f444b079bbc4b7bbc39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\adb99f393c5718e7c50b1bb844bb2cff07bde7b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_94392fab82b39d70ea95017d934c6fc9c1074569\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\11ab2af37f6bb0fd7c3e035b7497ac744d5882fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_9e938f20a66d16cc3559410764980ac796a80b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\2f8c6c55329a9cbc81e699baa6b96ec4b8ddf7e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_9f4b5bbb86da9e3673a9c34ace5c06674ce4bd43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\4d905a5efb0ad57a94ee7b568cde5bb004fbabe0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_6a0f8d509472deb787c887dfdfc874cc7d060886\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\1c418c390382c86ebd3e35dac12a4ac6e07e494f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_c4f804fda8325a9d131351e9dc6e6c8b91ce7a2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\f82022269df1cea15176d6df5ee448aa801e83bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_2ea30761609a8f45d7a32450946f5f6471e49451\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="774a8a40039bfe637a04c74603de92ce775fc322">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9fa00c6247ed095411dc6865c5bdfd47390b8240\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\381bb2a21c0f3f7b212b23901e83c2f38edfde2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_67857c1a7cef799261ae4e099b019d7a640dba98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\120219c4ac89a8de778b6f2bf372b81932dc8a23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_0c612a1b339c0c9049b3b7d6f64054856115fb1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\74d175acd565fb42eb753c8763729ee9ee7575c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b430dae171f9e86027c5f9eabbb3769cc23d5ee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\5aa1907c23e596a9b1bbfa8d1d18c607a066c7f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b33e1bbd2f160b537dfee7ab5de90b7f6923c14f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\a108aea8ea49b4207148ab69ae33ec3fd9f018e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_865ab8b6881021f26ba9dbf818506b1d9797c53b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\852f8ebe090a32756e2293aac7683fdb92d2762e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_82f70abdcea2c685f3730c046ba4b9cf0f428328\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\35a4df707ad661457556ebcd428b3f0978879381\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_e64a861eac59a1366a09bb788c61b9280768b13a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\6044ea1295a5c46d51b7188ace996b5cbd7de9f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_90fa8053a078ae0ba0806a99afdaff4271209735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\71de9e33a7d1c9e95e8e72d8adf716c9f2b04727\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_d31804c64bbdcfdecd10eeea8d9c266473cfbe39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\c2859174e8983f7a4036b89e358be72136e18971\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_1f6982262f725cdf6e1d7973f7a4f02f1092a3e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PortableSoftware\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\support-annotations-25.3.0_599afd75a22b377489a88696882bb7fd8bdac83f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\e6649ba0005139cbd50266add523dae5a08c98fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_4e440df5dfa36866fa22ef0e8efd3bd6dd52b85f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\45594fef338237b4e3e804324cccc6fdd4c6d2f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_506be554b75de8823c9e1684b936fe5d07d4f975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\f5a48da2cad056d68be2380393e615ec8002d216\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b4d2a4d1d64441259b044150d179468e2e392e1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\a6a4e327a166ca5d019350578da3963e09430d1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_55f1e9d90197d4db8a6b9f6722ee477f4b5865ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\97aae345654a2b2ef2e6c9855765410abf11ab10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b8afe5ae119865dad76f8d29125aa752dc071680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\95fd786c2b3fbb83094fe42253c0dca29d339c96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_4311c54c753b19a2e1638143a65c6e33f2ea73a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\7f71ec470e987f8a137ec56a7fc994bf5a267378\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_2619d353ce9f79d348bd4a095c8e6a3651bc9576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\dd2643b0e7e994239176825fdd4545e9803ca4ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_3f4b5645d7a259ad7f776829e79bb18701c0ec8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\2883b9228379da4d698509e310775c7b09394612\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b31dba7cd197df8444aef453bafb9206b76f02be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\cf4e87a54f054e8621332a11f897ccb8a246489e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_7cd892caab6673159acbed4cc5f490fa95aed852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\glide-3.7.0_a302e893c8faf352978b2d9a3203926cfea4feef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\570a30a95051fd0e00419412e566f6cac03dfdbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_2f96c87140b9ee100b95baffa6996701d0aef88c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\f1dd5dcfbe025a097ef18c728b860a35dbe64aed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_b9d6544f0e2600e5fbe09aa80c7a4247acd0f87d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\af50077c2bb286f4344d94f41fb0e65ded5cc5e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_aac5daf8d19dd9814b7886d58ecf79cee8c198f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NguyenThanhThai\.android\build-cache\ab97b71288f91086a831c24f541d3e0cc822ba40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="D:\Desktop\FoodyWithWebServer\NguyenThanhThai_14110182_Foody\app\build\intermediates\transforms\dex\release\folders\1000\10\classes_07366e70bc02cae4dba35154f6722f63cc2b9615\classes.dex" />
+    </item>
+
+</items>
